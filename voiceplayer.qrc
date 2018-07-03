@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="VoicePlayer">
+    <file>Resources/stop.jpg</file>
+    <file>Resources/pause.jpg</file>
+    <file>Resources/play.jpg</file>
+  </qresource>
+</RCC>
